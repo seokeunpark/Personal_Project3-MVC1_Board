@@ -1,4 +1,4 @@
-## 💻 프로젝트 설명 
+## 💻 Personal Project 3
 ### 1. 프로젝트
 * 게시판 "CRUD 기능" 구현
 * Java에 JDBC(Mariadb, MyBatis) 연동
