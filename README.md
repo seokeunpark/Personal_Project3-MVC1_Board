@@ -6,18 +6,7 @@
 * [이것이 자바다] 교재의 게시판 CRUD 기능을 똑같이 구현
 * Java에 JDBC(Mariadb, MyBatis) 연동
 
-### 3. 디렉토리 구조
-| 파일명 | 파일 설명| 
-| --- | --- | 
-| [BoardMain](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/BoardMain.java) |  실행 파일   |
-| [DBUtil](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/DBUtil.java) | 기능(메소드)을 정의한 파일 |
-| [BoardVO](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/BoardVO.java) | 필드와 Getter, Setter 메소드 선언한 파일 |
-| [BoardMapper](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/BoardMapper.java) | 기능의 SQL문을 정의한 파일 |
-| [BoardMapper.xml](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/BoardMapper.xml) | ??? |
-| [mybatis-config.xml](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/src/util/mybatis-config.xml) | Mybatis 설정 파일 |
-| [create_boards_table.sql](https://github.com/Kang-YunSik/java_selfpj_thisisjava/blob/main/sql/creat_boards_table.sql) | DB table 생성 SQL문 |
-
-### 4. 사용 기술
+### 3. 사용 기술
 <img src="https://img.shields.io/badge/IntelliJ IDEA-2F8CBB?style=flat-square&logo=IntelliJ IDEA&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"></a>
