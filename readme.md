@@ -4,9 +4,9 @@
 * Java에 JDBC(Mariadb, MyBatis) 연동
 
 ### 2. 프로젝트 참고 교재
-이것이 자바다 (한빛)
+성낙현의 JSP 자바 웹 프로그래밍 (골든래빗)
 </br>
-![B4861113361_l](https://github.com/seokeunpark/Personal_Project3-ThisIsJava-/assets/145525099/eb4f0abd-10ec-4eac-9d1c-79e3bb81e582)
+![XL](https://github.com/seokeunpark/Personal_Project4-JSP-MVC2-Board-/assets/145525099/0ba08bc4-bb6c-43a2-91b2-496f227e6cd9)
 
 ### 3. 사용 기술
 <img src="https://img.shields.io/badge/IntelliJ IDEA-2F8CBB?style=flat-square&logo=IntelliJ IDEA&logoColor=white"></a>
